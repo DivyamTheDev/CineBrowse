@@ -63,3 +63,4 @@ To build the application for production:
 npm run build
 ```
 This generates a production bundle in the `dist` directory.
+LIVE - https://cine-browse.vercel.app/
